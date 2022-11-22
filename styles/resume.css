@@ -75,6 +75,10 @@ li {
 	font-style: italic;
 }
 
+.nelson-name {
+	font-size: 2.5em;
+}
+
 #center-text {
 	text-align:center;
 }
@@ -83,7 +87,7 @@ li {
 	height: 1px;
 	width: 95px;
 	margin-top: 20px;
-	margin-left: 330px;
+	/* margin-left: 330px; */
 }
 
 .no-bullets {
